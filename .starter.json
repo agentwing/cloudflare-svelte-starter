@@ -1,0 +1,9 @@
+{
+	"schemaVersion": 1,
+	"template": "cloudflare-svelte-starter",
+	"repository": "https://github.com/agentwing/cloudflare-svelte-starter.git",
+	"runtime": {
+		"node": "22.23.1",
+		"pnpm": "9.9.0"
+	}
+}
