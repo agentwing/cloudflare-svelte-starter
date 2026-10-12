@@ -4,8 +4,8 @@
 	"version": "0.0.1",
 	"type": "module",
 	"engines": {
-	  "node": ">=22",
-	  "pnpm": ">=9"
+		"node": ">=22",
+		"pnpm": ">=9"
 	},
 	"scripts": {
 		"dev": "vite dev --host 127.0.0.1",
